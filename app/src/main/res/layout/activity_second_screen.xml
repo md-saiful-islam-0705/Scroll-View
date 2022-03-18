@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".SecondScreen">
+
+    <TextView
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:padding="20sp"
+        android:text="Details"
+        android:textColor="#5C01FF"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="376dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis imperdiet aliquet. Nulla malesuada erat at orci gravida, a consectetur ligula accumsan. Praesent augue enim, vestibulum vel pharetra a, congue ac tellus. Phasellus semper, arcu eu eleifend mattis, libero risus vestibulum nunc, id feugiat eros arcu vitae neque. Cras porttitor metus a arcu porta imperdiet. Aenean ut nulla nisl. In nunc eros, egestas a molestie sit amet, fermentum vel elit. Nunc in pharetra mi, sit amet blandit est. Nam dolor elit, iaculis non commodo quis, posuere et massa. Vestibulum blandit luctus convallis. Vestibulum viverra erat sed molestie luctus. Vivamus eget pellentesque odio. Vivamus condimentum, odio vitae fringilla molestie, urna risus pretium elit, ultrices cursus lectus massa at dolor. Nunc vel metus sed nibh sagittis iaculis pretium sit amet nibh. "
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+</LinearLayout>
